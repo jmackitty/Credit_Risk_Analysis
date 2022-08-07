@@ -7,7 +7,7 @@ The purpose of this analysis was to use machine learning models to predit credit
 We analyzed the results of 6 machine learning models:
 
 * RandomOverSampler: The balanced accuracy score is almost 65%. The high_risk precision is 1% with a recall of 71%. The low_risk precision is 100%.
-https://github.com/jmackitty/Credit_Risk_Analysis/blob/main/RandomOversampler.png
+<https://github.com/jmackitty/Credit_Risk_Analysis/blob/main/RandomOversampler.png>
 
 * SMOTE: The balanced accuracy score is almost 66%. The high_risk precision is 1% with a recall of 63%. The low_risk precision is 100%.
 https://github.com/jmackitty/Credit_Risk_Analysis/blob/main/SMOTE.png
