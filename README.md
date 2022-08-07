@@ -25,4 +25,4 @@ We analyzed the results of 6 machine learning models:
 <img width="367" alt="EasyEnsemble" src="https://user-images.githubusercontent.com/99056132/183273678-18f55932-f902-408a-97ee-996fbf9ccbea.png">
 
 ## Summary: 
-The most accurate model is the EasyEnsembleClassifier, but this still has a low precision when it comes to high_risk. This increases the chances of the bank granting loans/mortgages to high risk customer. I would continue to work with the EasyEnsembleClassifier to try to get the high risk precision to increase, but this wo
+The most accurate model is the EasyEnsembleClassifier, but this still has a low precision when it comes to high_risk. This increases the chances of the bank granting loans/mortgages to high risk customer. I would continue to work with the EasyEnsembleClassifier to try to get the high risk precision to increase, but this would be the best model to use.
